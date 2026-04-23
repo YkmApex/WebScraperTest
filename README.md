@@ -215,8 +215,7 @@ if __name__ == "__main__":
 
 ## 📧 联系方式
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your_email@example.com
+- **GitHub**: [YkmApex]
 
 ---
 
